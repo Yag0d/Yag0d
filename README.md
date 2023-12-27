@@ -1,6 +1,6 @@
 ### Olá, eu sou o Yago Guedes 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yago-guedes-1328b4150)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("www.linkedin.com/in/yago-guedes-1328b4150")
 
 ### Tecnologias que eu uso no meu dia
 
